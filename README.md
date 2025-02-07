@@ -12,6 +12,6 @@ Caso o jogador nao queira responder ao questionario, podera acessar a playlist d
 # Créditos
 Arte: Maria Eduarda Santos e Yasmin T. Faccin
 
-codding: Yasmin T. Faccin
+code: Yasmin T. Faccin
 
 Musicas: HoliznaCC0.
